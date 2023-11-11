@@ -8,11 +8,13 @@ function Playlist() {
 
   return (
     <div className="Playlist">
-      <input className="Playlist-input" defaultValue={"New Playlist"} />
-      <TrackList tracks={mockData} className="TrackList" />
+      <input value={playlistName} className="Playlist-input" defaultValue={"New Playlist"} onChange={/* ... handler function ... */} />
+      <TrackList tracks={tracks} className="TrackList" />
       <button className="Playlist-save">SAVE TO SPOTIFY</button>
     </div>
   );
 }
 
 export default Playlist;
+
+
