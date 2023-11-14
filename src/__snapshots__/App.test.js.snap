@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Visual Regression Testing renders correctly 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <div
+      class="SearchBar"
+    >
+      <input
+        placeholder="Enter A Song, Album, or Artist"
+      />
+      <button
+        class="SearchButton"
+      >
+        SEARCH
+      </button>
+    </div>
+    <div
+      class="AppPlaylist"
+    >
+      Loading...
+      <div
+        class="Playlist"
+      >
+        <input
+          class="Playlist-input"
+          value="New Playlist"
+        />
+        <p>
+          No tracks in the playlist
+        </p>
+        <button
+          class="Playlist-save"
+        >
+          SAVE TO SPOTIFY
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

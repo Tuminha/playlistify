@@ -1,0 +1,4528 @@
+
+> playlistify@0.1.0 test
+> react-scripts test
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering track:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    TrackList component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    TrackList component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    TrackList component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Playlist name changed to:  New Playlist Name
+
+      at handleNameChange (src/components/Playlist/Playlist.jsx:22:13)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist Name
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering track:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Playlist name changed to:  New Playlist Name
+
+      at handleNameChange (src/components/Playlist/Playlist.jsx:22:13)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist Name
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering track:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering track:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering track:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering track:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    TrackList component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    TrackList component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    TrackList component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Playlist name changed to:  New Playlist Name
+
+      at handleNameChange (src/components/Playlist/Playlist.jsx:22:13)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist Name
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering track:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Playlist name changed to:  New Playlist Name
+
+      at handleNameChange (src/components/Playlist/Playlist.jsx:22:13)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist Name
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering track:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering track:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering track:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    SearchResults component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at SearchResults (src/components/SearchResults/SearchResults.jsx:7:11)
+
+  console.log
+    TrackList component received tracks:  [
+      { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' },
+      { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+    ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering track:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Track component for:  { id: 2, name: 'Track 2', artist: 'Artist 2', album: 'Album 2' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    TrackList component received tracks:  [ { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' } ]
+
+      at TrackList (src/components/TrackList/TrackList.jsx:6:11)
+
+  console.log
+    Rendering track:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at map (src/components/TrackList/TrackList.jsx:14:21)
+          at Array.map (<anonymous>)
+
+  console.log
+    Rendering Track component for:  { id: 1, name: 'Track 1', artist: 'Artist 1', album: 'Album 1' }
+
+      at Track (src/components/Track/Track.jsx:5:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+  console.log
+    Search Results:  []
+
+      at App (src/App.js:24:11)
+
+  console.log
+    Playlist Tracks:  [
+      { id: 3, name: 'Track 3', artist: 'Artist 3', album: 'Album 3' },
+      { id: 4, name: 'Track 4', artist: 'Artist 4', album: 'Album 4' }
+    ]
+
+      at App (src/App.js:33:11)
+
+  console.log
+    Rendering SearchBar component
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:6:11)
+
+  console.log
+    SearchBar component rendered
+
+      at SearchBar (src/components/SearchBar/SearchBar.jsx:14:11)
+
+  console.log
+    Rendering Playlist component
+
+      at Playlist (src/components/Playlist/Playlist.jsx:6:11)
+
+  console.log
+    Mock data for Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:9:11)
+
+  console.log
+    Initial playlist name:  New Playlist
+
+      at Playlist (src/components/Playlist/Playlist.jsx:13:11)
+
+  console.log
+    Initial tracks in Playlist:  []
+
+      at Playlist (src/components/Playlist/Playlist.jsx:16:11)
+
+
